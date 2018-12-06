@@ -1,0 +1,11 @@
+{
+  "main.js": "render-page.js",
+  "main.js.map": "render-page.js.map",
+  "static/arcadegame.png": "static/arcadegame-8849dc91dc34bf2d8105bcda8be891fd.png",
+  "static/map.png": "static/map-6f3b405ce1d65ed7d279acf358faafd7.png",
+  "static/memorygame.png": "static/memorygame-a83d6199b5fc660f1b7a4e459e27c573.png",
+  "static/myreads.png": "static/myreads-41e665d0a73774718993a124d298033a.png",
+  "static/portfolio.png": "static/portfolio-80335aabc39123708f4fc33bcfd2bec9.png",
+  "static/restaurant.png": "static/restaurant-3e5f3be8b82a1ed9cf16702dda9649c8.png",
+  "static/sandraczerkas.jpg": "static/sandraczerkas-48e74653bdc3e92ce560f79f9c20dfe2.jpg"
+}
